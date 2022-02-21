@@ -10,6 +10,18 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("4");
+            Console.WriteLine("4");
+            Console.WriteLine("4");
+            Console.WriteLine("4");
+            Console.WriteLine("4");
+            Console.WriteLine("4");
+            Console.WriteLine("4");
+            Console.WriteLine("004");
+            Console.WriteLine("004");
+            Console.WriteLine("004");
+            Console.WriteLine("004");
+            Console.WriteLine("004");
         }
     }
 }
